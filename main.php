@@ -9,12 +9,12 @@
     
     <header class="head">
       <div class="head-logo">
-        <img src="images/logo.png" alt="Logo">
+        <img src="logo.png" alt="Logo">
       </div>
 
       <!--Registration button-->
       <div class="floating-button" onclick="document.getElementById('registration-form').style.display='block'">
-        <img src="images/register.png" alt="" class="register-img">
+        <img src="register.png" alt="" class="register-img">
     </div>
     
     <!-- Registration Form Modal -->
@@ -91,27 +91,27 @@
             <h2>Our Gallery</h2>
             <div class="gallery-grid">
               <div class="gallery-item">
-                <img src="images/frontview.jpeg" alt="Image 1">
+                <img src="frontview.jpeg" alt="Image 1">
                 <p><center>RESC frontview</center></p>
               </div>
               <div class="gallery-item">
-                <img src="images/theory.jpeg" alt="Image 2">
+                <img src="theory.jpeg" alt="Image 2">
                 <p><center>RESC Theory Room</center></p>
               </div>
               <div class="gallery-item">
-                <img src="images/practical.jpeg" alt="Image 3">
+                <img src="practical.jpeg" alt="Image 3">
                 <p><center>RESC Practical Room</center></p>
               </div>
               <div class="gallery-item">
-                <img src="images/sideview.jpeg" alt="Image 4">
+                <img src="sideview.jpeg" alt="Image 4">
                 <p><center>RESC Side View</center></p>
               </div>
               <div class="gallery-item">
-                <img src="images/office.jpg" alt="Image 5">
+                <img src="office.jpg" alt="Image 5">
                 <p><center>RESC office</center></p>
               </div>
               <div class="gallery-item">
-                <img src="images/theoryroom-upper.jpg" alt="Image 6">
+                <img src="theoryroom-upper.jpg" alt="Image 6">
                 <p><center>RESC Theory Room</center></p>
               </div>
             </div>
@@ -127,7 +127,7 @@
 
  <!-- ChatBot Code --> 
   <div class="chatbot-button">
-    <img src="images/chat bot.png" alt="Chat Bot" class="chatbot-btn">
+    <img src="chat bot.png" alt="Chat Bot" class="chatbot-btn">
     <!-- <button class="chatbot-btn">Chat with us</button> -->
   </div>
 
